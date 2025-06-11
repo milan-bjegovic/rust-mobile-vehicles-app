@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="assets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/dx/blog/debug/android/app/app/build/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/tailwind-75479b18add1d0fc.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dx/blog/debug/android/app/app/build/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/main-07847324f9a6d8a2.css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dx/blog/debug/android/app/app/build/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/header-773d6e50d063942a.svg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dx/blog/debug/android/app/app/build/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/favicon-78763c6c4cb3a95e.ico.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

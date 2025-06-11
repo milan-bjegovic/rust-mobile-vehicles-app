@@ -1,0 +1,20 @@
+.vehicle-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+}
+
+.vehicle-card {
+    background: rgb(28, 113, 119);
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    text-align: center;
+}
+
+.vehicle-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
